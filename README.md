@@ -7,7 +7,7 @@
 
 This repository hosts all the **supporting content** for the YouTube series **PowerShell Beyond Basics** — a hands-on program exploring Automation, Azure, and PowerShell in real-world scenarios.
 
-Each episode folder may contain contains:
+Each episode folder (may) contain:
 - 🧩 Example scripts  
 - 📝 Notes and references  
 - 📚 Additional resources  
