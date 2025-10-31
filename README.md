@@ -1,3 +1,17 @@
-Youtube Playlist: https://www.youtube.com/playlist?list=PLXgvDoFYKcAhmQAYrMq90uf7rkIe2CfrU
+# 🎥 PowerShell Beyond Basics — YouTube Series
 
-This is where all the support content will be avaiable for this Series. Just select the episode to navigate to it's content
+📺 **YouTube Playlist:**  
+[PowerShell Beyond Basics](https://www.youtube.com/playlist?list=PLXgvDoFYKcAhmQAYrMq90uf7rkIe2CfrU)
+
+This repository hosts all the **supporting content** for the YouTube series **PowerShell Beyond Basics** — a hands-on program exploring Automation, Azure, and PowerShell in real-world scenarios.
+
+Each episode folder (may) contain:
+- 🧩 Example scripts  
+- 📝 Notes and references  
+- 📚 Additional resources  
+
+Simply select the episode folder to navigate to its content.
+
+> ⚠️ **Note:**  
+> Only episodes that include relevant or supporting material will be added here.  
+> Some episodes may be skipped if no external files or code are required.
