@@ -1,3 +1,9 @@
+
+
+
+
+
+
 Connect-AzAccount # Connect to Any Subscription when AuthN as yourself. Be sure you have global reader for this to work.
 
 $subs = (Get-AzSubscription).name # collect all subs
