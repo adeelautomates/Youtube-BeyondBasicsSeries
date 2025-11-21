@@ -1,9 +1,9 @@
-# 🎥 PowerShell Beyond Basics — YouTube Series
+# 🎥 Automate Azure & M365 with Powershell Series — YouTube Series
 
 📺 **YouTube Playlist:**  
 [PowerShell Beyond Basics](https://www.youtube.com/playlist?list=PLXgvDoFYKcAhmQAYrMq90uf7rkIe2CfrU)
 
-This repository hosts all the **supporting content** for the YouTube series **PowerShell Beyond Basics** — a hands-on program exploring Automation, Azure, and PowerShell in real-world scenarios.
+This repository hosts all the **supporting content** for the YouTube series **Automate Azure & M365 with Powershell** — a hands-on program exploring Automation, Azure, and PowerShell in real-world scenarios.
 
 Each episode folder (may) contain:
 - 🧩 Example scripts  
