@@ -1,4 +1,4 @@
-# 🎥 PowerShell Beyond Basics — YouTube Series
+# 🎥 PowerShell Azure/M365 Series — YouTube Series
 
 📺 **YouTube Playlist:**  
 [PowerShell Beyond Basics](https://www.youtube.com/playlist?list=PLXgvDoFYKcAhmQAYrMq90uf7rkIe2CfrU)
