@@ -1,0 +1,4 @@
+Please your modules here using save-module <moduleName>
+
+Save-Module Az.Accounts  -Path .\Modules
+Save-Module Az.Resources -Path .\Modules
