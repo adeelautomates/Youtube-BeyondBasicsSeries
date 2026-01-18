@@ -11,12 +11,6 @@ This repo contains the scripts, notes, and supporting assets for my YouTube “P
 Where I teach Advanced PowerShell with the focus on Microsoft Cloud services. There is plenty of beginner courses out there but not enough
 courses that go beyond the 101s. This is my answer to that.
 
-# Intent of Repo
-
-The intent of this Repo is to provide the cmdlets/scripts we work on as the series progress.
-
-*Note: Not every episode has content uploaded to GitHub.*
-
 # Episodes in Chornological Order
 
 *Note: Go easy on my early videos. It was my first time ever recording & editing.
