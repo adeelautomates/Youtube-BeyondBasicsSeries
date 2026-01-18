@@ -1,17 +1,16 @@
-# 🎥 Automate Azure & M365 with Powershell Series — YouTube Series
+# YouTube Series : 
+Name : PowerShell Engineering on Microsoft Cloud
+Link : https://www.youtube.com/@AdeelAutomates
 
-📺 **YouTube Playlist:**  
-[PowerShell Beyond Basics](https://www.youtube.com/playlist?list=PLXgvDoFYKcAhmQAYrMq90uf7rkIe2CfrU)
+# Introduction
 
-This repository hosts all the **supporting content** for the YouTube series **Automate Azure & M365 with Powershell** — a hands-on program exploring Automation, Azure, and PowerShell in real-world scenarios.
+This repo contains the scripts, notes, and supporting assets for my YouTube “PowerShell Engineering on Microsoft Cloud” series.
+Where I teach Advanced PowerShell with the focus on Microsoft Cloud services. There is plenty of beginner courses out there but not enough
+courses that go beyond the 101s. This is my answer to that.
 
-Each episode folder (may) contain:
-- 🧩 Example scripts  
-- 📝 Notes and references  
-- 📚 Additional resources  
+# Intent of Repo
 
-Simply select the episode folder to navigate to its content.
+The intent of this Repo is to provide the cmdlets/scripts we work on as the series progress.
 
-> ⚠️ **Note:**  
-> Only episodes that include relevant or supporting material will be added here.  
-> Some episodes may be skipped if no external files or code are required.
+*Note: Not every episode has content uploaded to GitHub.*
+
