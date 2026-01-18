@@ -1,10 +1,5 @@
 <a href="https://www.youtube.com/@AdeelAutomates" rel="YouTube Channel">![PowerShell Engineering](/Images/Banner.png)</a>
 
-# YouTube Series : 
-
-Name : PowerShell Engineering on Microsoft Cloud
-Link : https://www.youtube.com/@AdeelAutomates
-
 # Introduction
 
 This repo contains the scripts, notes, and supporting assets for my YouTube “PowerShell Engineering on Microsoft Cloud” series.
