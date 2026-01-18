@@ -19,6 +19,8 @@ The intent of this Repo is to provide the cmdlets/scripts we work on as the seri
 
 # Episodes in Chornological Order
 
+*Note: Go easy on my early videos. It was my first time ever recording & editing.
+
 | Episode | YouTube Link |
 |---------|--------------|
 | Learn Powershell Through Azure| https://www.youtube.com/watch?v=FfvbNT9YpXs |
