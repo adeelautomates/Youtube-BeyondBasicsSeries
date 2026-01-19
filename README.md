@@ -7,6 +7,7 @@ Where I teach Advanced PowerShell with the focus on Microsoft Cloud services. Th
 courses that go beyond the 101s. This is my answer to that.
 
 # Episodes in Chornological Order
+*Note: Go easy on my early videos. It was my first time ever recording & editing.*
 
 | # | Thumbnail | Episode |
 |---|---|---|
@@ -31,7 +32,6 @@ courses that go beyond the 101s. This is my answer to that.
 | **019** | <a href="https://www.youtube.com/watch?v=2fn7AZz3PkQ"><img src="https://img.youtube.com/vi/2fn7AZz3PkQ/mqdefault.jpg" width="200" /></a> | **[Excel Online Graph API — Automate Your Spreadsheets!](https://www.youtube.com/watch?v=2fn7AZz3PkQ)** |
 | **020** | <a href="https://www.youtube.com/watch?v=Hdc5V_mdNIs"><img src="https://img.youtube.com/vi/Hdc5V_mdNIs/mqdefault.jpg" width="200" /></a> | **[PowerShell Script - Identity Permissions Report](https://www.youtube.com/watch?v=Hdc5V_mdNIs)** |
 
-*Note: Go easy on my early videos. It was my first time ever recording & editing.*
 
 
 
