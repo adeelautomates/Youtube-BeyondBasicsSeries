@@ -7,7 +7,7 @@ Where I teach Advanced PowerShell with the focus on Microsoft Cloud services. Th
 courses that go beyond the 101s. This is my answer to that.
 
 # Episodes in Chornological Order
-*Note: Go easy on my early videos. It was my first time ever recording, talking to a camera & editing.😅*
+*Note: Go easy on my early videos. It was my first time ever recording, talking to a camera & editing.* 😅
 
 | # | Thumbnail | Episode |
 |---|---|---|
