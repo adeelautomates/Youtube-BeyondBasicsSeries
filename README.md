@@ -31,7 +31,7 @@ courses that go beyond the 101s. This is my answer to that.
 | **018** | <a href="https://www.youtube.com/watch?v=kdu6TSOnqYE"><img src="https://img.youtube.com/vi/kdu6TSOnqYE/mqdefault.jpg" width="200" /></a> | **[SharePoint Graph API — Automate Your Sites!](https://www.youtube.com/watch?v=kdu6TSOnqYE)** |
 | **019** | <a href="https://www.youtube.com/watch?v=2fn7AZz3PkQ"><img src="https://img.youtube.com/vi/2fn7AZz3PkQ/mqdefault.jpg" width="200" /></a> | **[Excel Online Graph API — Automate Your Spreadsheets!](https://www.youtube.com/watch?v=2fn7AZz3PkQ)** |
 | **020** | <a href="https://www.youtube.com/watch?v=Hdc5V_mdNIs"><img src="https://img.youtube.com/vi/Hdc5V_mdNIs/mqdefault.jpg" width="200" /></a> | **[PowerShell Script - Identity Permissions Report](https://www.youtube.com/watch?v=Hdc5V_mdNIs)** |
-
+ **021** | <a href="https://www.youtube.com/watch?v=VLFmSs7GPRQ"><img src="https://img.youtube.com/vi/VLFmSs7GPRQ/mqdefault.jpg" width="200" /></a> | **[Storage Accounts Data Plane — Utilizing it for our Automations](https://www.youtube.com/watch?v=VLFmSs7GPRQ)** |
 
 
 
