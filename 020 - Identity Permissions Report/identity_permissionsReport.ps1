@@ -142,7 +142,7 @@ $grant = foreach ($id in $GraphSPs.values){
 $excludeScopes = @("openid", "profile", "offline_access", "email")
 foreach ($grant in $grants){
     $principalDetails = (Get-MgDirectoryObject -DirectoryObjectId $grant.PrincipalId).AdditionalProperties
-    $roleList = ($grants.scope).trim() -split ' ' | where-object { $_ -notin $excludeScopes }
+    $roleList = ($grant.scope).trim() -split ' ' | where-object { $_ -notin $excludeScopes }
     $worksheetGraphPerms.Add([pscustomobject]@{
         DisplayName  = $principalDetails.displayName
         ID           = $grant.principalID

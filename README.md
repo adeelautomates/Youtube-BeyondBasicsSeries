@@ -7,6 +7,7 @@ Where I teach Advanced PowerShell with the focus on Microsoft Cloud services. Th
 courses that go beyond the 101s. This is my answer to that.
 
 # Episodes in Chornological Order
+*Note: Go easy on my early videos. It was my first time ever recording, talking to a camera & editing.* 😅
 
 | # | Thumbnail | Episode |
 |---|---|---|
@@ -29,8 +30,8 @@ courses that go beyond the 101s. This is my answer to that.
 | **017** | <a href="https://www.youtube.com/watch?v=tH3o5q2a_1U"><img src="https://img.youtube.com/vi/tH3o5q2a_1U/mqdefault.jpg" width="200" /></a> | **[OpenAI — Response API in Action](https://www.youtube.com/watch?v=tH3o5q2a_1U)** |
 | **018** | <a href="https://www.youtube.com/watch?v=kdu6TSOnqYE"><img src="https://img.youtube.com/vi/kdu6TSOnqYE/mqdefault.jpg" width="200" /></a> | **[SharePoint Graph API — Automate Your Sites!](https://www.youtube.com/watch?v=kdu6TSOnqYE)** |
 | **019** | <a href="https://www.youtube.com/watch?v=2fn7AZz3PkQ"><img src="https://img.youtube.com/vi/2fn7AZz3PkQ/mqdefault.jpg" width="200" /></a> | **[Excel Online Graph API — Automate Your Spreadsheets!](https://www.youtube.com/watch?v=2fn7AZz3PkQ)** |
+| **020** | <a href="https://www.youtube.com/watch?v=Hdc5V_mdNIs"><img src="https://img.youtube.com/vi/Hdc5V_mdNIs/mqdefault.jpg" width="200" /></a> | **[PowerShell Script - Identity Permissions Report](https://www.youtube.com/watch?v=Hdc5V_mdNIs)** |
 
-*Note: Go easy on my early videos. It was my first time ever recording & editing.*
 
 
 
